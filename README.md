@@ -45,7 +45,7 @@ python filter_shapefile.py data/Geochem_points.shp AG output/Geochem_AG_filtered
 
 ---
 
-## 📋 Columns Kept
+## Columns Kept
 
 The script preserves the following columns by default:
 
@@ -104,7 +104,7 @@ This project is released under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+## Author
 
 **Charles L. Bérubé**  
 Department of civil, geological & mining engineering  
