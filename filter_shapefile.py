@@ -48,7 +48,7 @@ def main():
 
     # Normalize column names for matching
     existing_cols = list(gdf.columns)
-    element_col = args.element.upper()
+    element_col = args.element  # .upper()
 
     # Check that the requested element exists
     if element_col not in existing_cols:
